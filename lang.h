@@ -366,7 +366,7 @@ lang(321, Save_Skin_CNF, "Save Skin CNF")
 lang(322, Mount, "Mount")
 //---------------------------------------------------------------------------
 // New MISC entry for "About uLE" screen display
-lang(323, About_uLE, "About uLE")
+lang(323, About_uLE, "About wLE")
 //---------------------------------------------------------------------------
 // New MISC entry for "OSDSYS(MC)" launch (for FMCB on incompatible consoles)
 lang(324, OSDSYS, "OSDSYS")
